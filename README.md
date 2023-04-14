@@ -130,8 +130,7 @@ ASSETS_ENABLE_VERSION=false
 
 ## Contributors
 
-- [Sang Nguyen](https://github.com/sangnguyenplus)
-- [Dinh Quoc Han](https://github.com/dinhquochan)
+- [Godwin Waswa](https://github.com/godwnwaswa)
 
 ## License
 [MIT](LICENSE) © Godwin Waswa
