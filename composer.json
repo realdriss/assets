@@ -1,14 +1,14 @@
 {
-    "name": "botble/assets",
+    "name": "realdriss/assets",
     "description": "Laravel assets management",
     "license": "MIT",
     "keywords": [
-        "botble",
-        "botble cms",
-        "botble platform",
-        "botble assets"
+        "RealDriss",
+        "RealDriss cms",
+        "RealDriss platform",
+        "RealDriss assets"
     ],
-    "homepage": "https://botble.com",
+    "homepage": "https://RealDriss.com",
     "authors": [
         {
             "name": "Sang Nguyen",
@@ -25,21 +25,21 @@
     },
     "autoload": {
         "psr-4": {
-            "Botble\\Assets\\": "src"
+            "RealDriss\\Assets\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Botble\\Assets\\Tests\\": "tests"
+            "RealDriss\\Assets\\Tests\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Botble\\Assets\\Providers\\AssetsServiceProvider"
+                "RealDriss\\Assets\\Providers\\AssetsServiceProvider"
             ],
             "aliases": {
-                "Assets": "Botble\\Assets\\Facades\\AssetsFacade"
+                "Assets": "RealDriss\\Assets\\Facades\\AssetsFacade"
             }
         }
     },
