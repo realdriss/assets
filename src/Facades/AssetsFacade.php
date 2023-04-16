@@ -1,8 +1,8 @@
 <?php
 
-namespace Botble\Assets\Facades;
+namespace RealDriss\Assets\Facades;
 
-use Botble\Assets\Assets;
+use RealDriss\Assets\Assets;
 use Illuminate\Support\Facades\Facade;
 
 /**

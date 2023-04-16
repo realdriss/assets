@@ -1,6 +1,6 @@
 <?php
 
-namespace Botble\Assets;
+namespace RealDriss\Assets;
 
 use Illuminate\Config\Repository;
 use Illuminate\Support\Arr;

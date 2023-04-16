@@ -1,6 +1,6 @@
 <?php
 
-namespace Botble\Assets;
+namespace RealDriss\Assets;
 
 use Illuminate\Contracts\Routing\UrlGenerator;
 use Illuminate\Support\HtmlString;
