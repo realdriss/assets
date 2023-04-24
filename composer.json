@@ -8,11 +8,11 @@
         "RealDriss platform",
         "RealDriss assets"
     ],
-    "homepage": "https://RealDriss.com",
+    "homepage": "https://realdriss.com",
     "authors": [
         {
-            "name": "Sang Nguyen",
-            "email": "sangnguyenplus@gmail.com"
+            "name": "Godwin Waswa",
+            "email": "godwnwaswa@gmail.com"
         }
     ],
     "require": {
